@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://nadam.github.com/nadam/sitemap.xml 
+Sitemap: http://nadam.github.io/sitemap.xml 
