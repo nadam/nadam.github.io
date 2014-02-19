@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Adam Nybäck]]></title>
+  <link href="http://nadam.github.com/nadam/atom.xml" rel="self"/>
+  <link href="http://nadam.github.com/nadam/"/>
+  <updated>2014-02-19T19:31:56+01:00</updated>
+  <id>http://nadam.github.com/nadam/</id>
+  <author>
+    <name><![CDATA[Adam Nybäck]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Time to Leave Drupal]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2013/02/05/time-to-leave-drupal/"/>
+    <updated>2013-02-05T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2013/02/05/time-to-leave-drupal</id>
+    <content type="html"><![CDATA[<p>So I haven&#8217;t done much on this site for a long time. It&#8217;s mostly because I think of it as my company website and the things I want to write are not necessarily related to my company. On the other hand it&#8217;s a one man company, so anything I write is kind of personal. Mostly when I feel like writing something these days I just go to Facebook or Twitter (and occasionally to Google+).</p>
+
+<p>Last weekend I was looking for ways to prevent spam on websites and the obvious answer for Drupal is usually Mollom. However, it&#8217;s only free for non-commercial use so I looked for alternatives and found <a href="http://drupal.org/project/botcha">Botcha</a>. The reason for having spam protection was for another site running Drupal 7 so I thought this would be a good opportunity to upgrade anyro.se too (from Drupal 6) and try Botcha here by enabling comments again. Knowing upgrading could be a pain I was happy to find that <a href="http://www.acquia.com/blog/use-drush-upgrade-drupal-6-drupal-7">Drush supports upgrading</a>. After struggling with this for a few hours I ran into some &#8220;access denied&#8221; issue that didn&#8217;t have any obvious solution.</p>
+
+<p>Having heard many friends switching to <a href="http://jekyllrb.com/">Jekyll</a>, I think I&#8217;m going to do the same, possibly using <a href="http://www.acquia.com/blog/use-drush-upgrade-drupal-6-drupal-7">Octopress</a> and <a href="http://pages.github.com">GitHub Pages</a> too. This feels like a step in the right direction - no PHP, no databases, no security issues/updates, no headache.</p>
+
+<!--break-->
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2011/08/19/android/"/>
+    <updated>2011-08-19T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2011/08/19/android</id>
+    <content type="html"><![CDATA[<p>Under året har jag fortsatt utveckla appar för Android varav två har gjorts på uppdrag av reklambyråer. <a href="https://play.google.com/store/apps/details?id=se.anyro.multitimer">Lithells MultiTimer</a> utvecklades åt <a href="http://goss.se">Goss</a> och <a href="https://play.google.com/store/apps/details?id=se.anyro.sevart">Sevärt</a> utvecklades åt <a href="http://www.sturmdrang.se">Sturm &amp; Drang</a>.</p>
+
+<p>Under sommaren har jag också dragit igång regelbundna <a href="http://www.sthlmandroid.se">utvecklarträffar i Stockholm</a> tillsammans med andra Android-entusiaster. Om du är intresserad så rekommender jag att du följer <a href="https://twitter.com/SthlmAndroid">@SthlmAndroid</a> på Twitter.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iZettle Turns iPhone Into an EMV Terminal for Everyone]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2011/04/28/izettle-turns-iphone-into-an-emv-terminal-for-everyone/"/>
+    <updated>2011-04-28T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2011/04/28/izettle-turns-iphone-into-an-emv-terminal-for-everyone</id>
+    <content type="html"><![CDATA[<p>Swedish <a href="http://izettle.com">iZettle just launched their website</a> describing the iZettle chip reader that turns an iPhone into an EMV terminal that can be used by merchants as well as anyone who has something to sell.</p>
+
+<p>A video on the website describes the process where you have the reader connected to the bottom of the iPhone. The amount is entered, the card is inserted, the amount is authorized online and finally the customer signs using the touch screen and optionally receives a receipt by e-mail.</p>
+
+<p>Security seems to be a top priority according to the website: &#8220;iZettle meets all the requirements of the card payment industry. We are EMV approved and comply with PCI-DSS regulations. No sensitive data is ever stored on the mobile device, and all data traffic is encrypted.&#8221;</p>
+
+<p>The product/service will be launched in Sweden in June this year and people who are interested can sign up for an invite.</p>
+
+<iframe width="560" height="349" src="http://www.youtube.com/embed/ygW_nm9if20?rel=0" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nuvarande uppdrag]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/12/20/nuvarande-uppdrag/"/>
+    <updated>2010-12-20T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/12/20/nuvarande-uppdrag</id>
+    <content type="html"><![CDATA[<p>Sedan ett par månader är jag tillbaka på Payzone där jag jobbar deltid med en förstudie som nu går över i utveckling.</p>
+
+<p>Parallellt med det utvecklar jag eget till Google Android där jag nu har sex stycken appar publicerade på Market - tre spel och tre svenska reseappar.</p>
+
+<p>Med andra ord Java-utveckling för hela slanten, vilket jag fortfarande trivs ganska bra med.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dags för nya uppdrag och utmaningar]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/05/18/dags-fr-nya-uppdrag-och-utmaningar/"/>
+    <updated>2010-05-18T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/05/18/dags-fr-nya-uppdrag-och-utmaningar</id>
+    <content type="html"><![CDATA[<p>Mitt uppdrag på Payzone börjar närma sig sitt slut för den här gången så nu letar jag efter nya utmaningar. Min erfarenhet passar bäst till expertuppdrag inom kortbranschen, men jag är även intresserad av uppdrag relaterade till <a href="http://drupal.org">Drupal</a> och <a href="http://developer.android.com">Android</a>.</p>
+
+<p>Tveka inte att <a href="http://anyro.se/contact">kontakta mig</a> om du känner till något som kunde passa.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Röksimulering i HTML5]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/04/18/rksimulering-i-html5/"/>
+    <updated>2010-04-18T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/04/18/rksimulering-i-html5</id>
+    <content type="html"><![CDATA[<p>Igår var jag med i en &#8220;HTML5 study group&#8221; för att se vad <a href="http://en.wikipedia.org/wiki/HTML5">den nya standarden</a> har att erbjuda. Inte helt oväntat fastnade jag för <a href="http://en.wikipedia.org/wiki/Canvas_element">Canvas-taggen</a> och som ett experiment provade jag att göra <a href="http://anyro.se/content/r%C3%B6ksimulering">en enkel röksimulator</a>.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+<span class='line-number'>55</span>
+<span class='line-number'>56</span>
+<span class='line-number'>57</span>
+<span class='line-number'>58</span>
+<span class='line-number'>59</span>
+<span class='line-number'>60</span>
+<span class='line-number'>61</span>
+<span class='line-number'>62</span>
+<span class='line-number'>63</span>
+<span class='line-number'>64</span>
+<span class='line-number'>65</span>
+<span class='line-number'>66</span>
+<span class='line-number'>67</span>
+<span class='line-number'>68</span>
+<span class='line-number'>69</span>
+<span class='line-number'>70</span>
+<span class='line-number'>71</span>
+<span class='line-number'>72</span>
+<span class='line-number'>73</span>
+<span class='line-number'>74</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;canvas</span> <span class="na">id=</span><span class="s">&quot;canvas&quot;</span> <span class="na">width=</span><span class="s">&quot;150&quot;</span> <span class="na">height=</span><span class="s">&quot;150&quot;</span><span class="nt">&gt;&lt;/canvas&gt;</span>
+</span><span class='line'><span class="nt">&lt;script </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'><span class="kd">var</span> <span class="nx">ctx</span><span class="p">;</span>
+</span><span class='line'><span class="nx">particles</span> <span class="o">=</span> <span class="p">[];</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">canvas</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;canvas&#39;</span><span class="p">);</span>
+</span><span class='line'><span class="k">if</span> <span class="p">(</span><span class="nx">canvas</span><span class="p">.</span><span class="nx">getContext</span><span class="p">){</span>
+</span><span class='line'><span class="nx">ctx</span> <span class="o">=</span> <span class="nx">canvas</span><span class="p">.</span><span class="nx">getContext</span><span class="p">(</span><span class="s1">&#39;2d&#39;</span><span class="p">);</span>
+</span><span class='line'><span class="c1">//Set Refresh Rate  </span>
+</span><span class='line'><span class="nx">setInterval</span><span class="p">(</span><span class="nx">draw</span><span class="p">,</span> <span class="mi">40</span><span class="p">);</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Smoke particle class</span>
+</span><span class='line'><span class="kd">function</span> <span class="nx">Particle</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Initial y less than 0 to trigger initiation of all variables</span>
+</span><span class='line'><span class="k">this</span><span class="p">.</span><span class="nx">y</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">this</span><span class="p">.</span><span class="nx">reset</span> <span class="o">=</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c1">// Position</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">x</span> <span class="o">=</span> <span class="mf">75.0</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">y</span> <span class="o">=</span> <span class="mf">150.0</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c1">// Speed</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">dx</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span> <span class="o">*</span> <span class="mf">1.0</span> <span class="o">-</span> <span class="mf">0.5</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">dy</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span> <span class="o">*</span> <span class="mf">0.2</span> <span class="o">+</span> <span class="mf">1.8</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">dradius</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span> <span class="o">*</span> <span class="mf">0.1</span> <span class="o">+</span> <span class="mf">0.5</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">radius</span> <span class="o">=</span> <span class="mf">10.0</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c1">// Transparency</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">alpha</span> <span class="o">=</span> <span class="mf">0.15</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">this</span><span class="p">.</span><span class="nx">render</span> <span class="o">=</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">if</span> <span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">y</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">this</span><span class="p">.</span><span class="nx">reset</span><span class="p">();</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c1">// Change position, radius and transparency of the particle</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">x</span> <span class="o">+=</span> <span class="k">this</span><span class="p">.</span><span class="nx">dx</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">y</span> <span class="o">-=</span> <span class="k">this</span><span class="p">.</span><span class="nx">dy</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">radius</span> <span class="o">+=</span> <span class="k">this</span><span class="p">.</span><span class="nx">dradius</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">this</span><span class="p">.</span><span class="nx">alpha</span> <span class="o">*=</span> <span class="mf">0.98</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c1">// Create circular gradient, white in the middle and transparent at the edge</span>
+</span><span class='line'>    <span class="kd">var</span> <span class="nx">radgrad</span> <span class="o">=</span> <span class="nx">ctx</span><span class="p">.</span><span class="nx">createRadialGradient</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">x</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">y</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">x</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">y</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">radius</span><span class="p">);</span>
+</span><span class='line'>    <span class="nx">radgrad</span><span class="p">.</span><span class="nx">addColorStop</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="s1">&#39;rgba(255, 255, 255, &#39;</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">alpha</span> <span class="o">+</span> <span class="s1">&#39;)&#39;</span><span class="p">);</span>
+</span><span class='line'>    <span class="nx">radgrad</span><span class="p">.</span><span class="nx">addColorStop</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;rgba(255, 255, 255, 0)&#39;</span><span class="p">);</span>
+</span><span class='line'>    <span class="nx">ctx</span><span class="p">.</span><span class="nx">fillStyle</span> <span class="o">=</span> <span class="nx">radgrad</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c1">// Draw the particle</span>
+</span><span class='line'>    <span class="nx">ctx</span><span class="p">.</span><span class="nx">fillRect</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">x</span> <span class="o">-</span> <span class="k">this</span><span class="p">.</span><span class="nx">radius</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">y</span> <span class="o">-</span> <span class="k">this</span><span class="p">.</span><span class="nx">radius</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">radius</span> <span class="o">*</span> <span class="mi">2</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">radius</span> <span class="o">*</span> <span class="mi">2</span><span class="p">);</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">function</span> <span class="nx">draw</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'><span class="c1">// Background</span>
+</span><span class='line'><span class="nx">ctx</span><span class="p">.</span><span class="nx">fillStyle</span> <span class="o">=</span> <span class="s2">&quot;rgb(40, 40, 40)&quot;</span><span class="p">;</span>
+</span><span class='line'><span class="nx">ctx</span><span class="p">.</span><span class="nx">fillRect</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">200</span><span class="p">,</span> <span class="mi">200</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Create new particles until we have 75</span>
+</span><span class='line'><span class="k">if</span> <span class="p">(</span><span class="nx">particles</span><span class="p">.</span><span class="nx">length</span> <span class="o">&lt;</span> <span class="mi">75</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>    <span class="nx">particles</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="k">new</span> <span class="nx">Particle</span><span class="p">());</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Draw the particles on the canvas</span>
+</span><span class='line'><span class="k">for</span> <span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">particles</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="o">++</span><span class="nx">i</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>     <span class="nx">particles</span><span class="p">[</span><span class="nx">i</span><span class="p">].</span><span class="nx">render</span><span class="p">();</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'><span class="nt">&lt;/script&gt;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PayPal i mobilen]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/04/15/paypal-i-mobilen/"/>
+    <updated>2010-04-15T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/04/15/paypal-i-mobilen</id>
+    <content type="html"><![CDATA[<p>Drömmer du om det kontantlösa samhället? Tror du fortfarande att kortbetalning är lösningen? Dags att tänka om.</p>
+
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/suCe4-SWsHo&hl=sv_SE&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/suCe4-SWsHo&hl=sv_SE&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Komma igång med Android-utveckling]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/04/09/komma-igng-med-android-utveckling/"/>
+    <updated>2010-04-09T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/04/09/komma-igng-med-android-utveckling</id>
+    <content type="html"><![CDATA[<p>Edit: Den här guiden är inte up-to-date, så googla efter någon annan eller gå till <a href="http://developer.android.com/develop">http://developer.android.com/develop</a></p>
+
+<p>För att börja utveckla för Android behöver du inte så mycket förberedelser. Du behöver inte ens en telefon, eftersom det finns en emulator. Det är dock bra om du kan engelska så slipper du använda <a href="http://translate.google.se">Google Translate</a>. Så här kommer du igång:</p>
+
+<p><strong>0. Titta och läs medan du laddar ned</strong>
+Du kommer behöva ladda ned en del filer i steg 1 nedan, så under tiden de laddar så kan du kolla några introduktionssidor om du vill. Annars kan du vänta med det till senare.</p>
+
+<ul>
+<li>Text: <a href="http://developer.android.com/guide/basics/what-is-android.html">What is Android?</a></li>
+<li>Filmer: <a href="http://developer.android.com/videos/index.html#v=QBGfUs9mQYY">Architecture Overview</a>, <a href="http://developer.android.com/videos/index.html#v=fL6gSd4ugSI">Application Lifecycle </a>, <a href="http://developer.android.com/videos/index.html#v=MPukbH6D-lY">Android APIs</a></li>
+<li>Text: <a href="http://developer.android.com/guide/topics/fundamentals.html">Application Fundamentals</a></li>
+</ul>
+
+
+<p><strong>1. Sätta upp utvecklingsmiljön</strong>
+Följ instruktionerna på <a href="http://developer.android.com/sdk/index.html">http://developer.android.com/sdk/index.html</a></p>
+
+<p>Några tips:</p>
+
+<ul>
+<li>Jag rekommenderar att du gör allt som beskrivs där. Om du inte vill använda Eclipse, så prova det i alla fall. Det blir enklare att följa instruktionerna då och du blir en erfarenhet rikare.</li>
+<li>Börja med Android 1.5. Du kan lägga till andra versioner senare om det skulle behövas.</li>
+<li>När du sätter upp emulatorn, kom ihåg att lägga till de egenskaper du vill att den virtuella telefonen ska ha, t ex accelerometer eller GPS.</li>
+</ul>
+
+
+<p><strong>2. Prova på <a href="http://developer.android.com/resources/tutorials/hello-world.html">Hello World</a></strong></p>
+
+<p><strong>3. Prova några <a href="http://developer.android.com/resources/tutorials/views/index.html">Layouter och Views</a> som du tycker ser intressanta ut.</strong></p>
+
+<p><strong>4. Gå igenom <a href="http://developer.android.com/resources/tutorials/notepad/index.html">Notepad Tutorial</a></strong>
+Här lär du dig många av de grundläggande funktionerna som behövs i nästan alla applikationer och hur man gör det &#8220;the Android way&#8221;.
+Om du redan vet vilken applikation du ska utveckla, så kan du göra det parallellt och lägga till sånt som du tycker behövs.</p>
+
+<p><strong>5. Nästa steg</strong>
+Nu är det upp till dig hur du vill gå vidare :-)
+En del förslag <a href="http://developer.android.com/sdk/installing.html#NextSteps">hittar du här</a>.</p>
+
+<p><strong>6. Problem?</strong>
+Använd <a href="http://google.se">google</a> eller sökrutan på <a href="http://developer.android.com.">http://developer.android.com.</a>
+Fler ställen där du kan få hjälp:
+<a href="http://www.swedroid.se/forum">http://www.swedroid.se/forum</a>
+<a href="http://developer.android.com/resources/community-groups.html">http://developer.android.com/resources/community-groups.html</a></p>
+
+<p>Lycka till!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Grattis Slashat!]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/03/25/grattis-slashat/"/>
+    <updated>2010-03-25T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/03/25/grattis-slashat</id>
+    <content type="html"><![CDATA[<p>Ett helt år har gått sedan första avsnittet av podcasten <a href="http://slashat.se">Slashat</a> och jag vill därför passa på att tacka för att varje vecka få drygt en timme av ren glädje.</p>
+
+<p>För er som inte känner till detta så är Slashat Sveriges (och kanske världens) bästa podcast för oss som gillar datorer, internet och teknik i allmänhet. Tommie och Jezper, keep up the good work!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Anyro.se på Google Buzz]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/03/09/anyro-se-p-google-buzz/"/>
+    <updated>2010-03-09T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/03/09/anyro-se-p-google-buzz</id>
+    <content type="html"><![CDATA[<p>Google föreslog automatiskt att jag kunde koppla anyro.se till Buzz. Så från och med nu kommer allt jag skriver här även hamna på mitt Buzz-konto. Smidigt.</p>
+
+<p>Vet inte hur det fungerar, men antar att det går via RSS. Skulle förvåna mig om kommentarerna synkas också (i båda riktningarna).</p>
+
+<p>Skulle egentligen vilja ha det kopplat till Buzz på mitt Google Apps-konto, men måste tydligen vänta på Google lite till för det.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2010/03/02/android/"/>
+    <updated>2010-03-02T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2010/03/02/android</id>
+    <content type="html"><![CDATA[<p>Visst är iPhone en trevlig telefon, men som utvecklare vill man har mer än så. Jag köpte därför en HTC Hero i början av året för att prova på Android och vad det har att erbjuda. En fördel för mig är att det är Java och rekommenderad utveckligsmiljö är Eclipse. Med andra ord precis det jag har jobbat med de senaste åren.</p>
+
+<p>Man behöver dock inte en telefon för att komma igång med Android-utveckling. En emulator följer med i utvecklingspaketet som du laddar ned gratis från <a href="http://developer.android.com.">http://developer.android.com.</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iPhone]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2009/12/05/iphone/"/>
+    <updated>2009-12-05T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2009/12/05/iphone</id>
+    <content type="html"><![CDATA[<p>Jag har nu haft iPhone 3G i drygt ett halvår och tänkte försöka summera vad jag använder den till:</p>
+
+<ol>
+<li><p>Podradio
+Podradio (eller podcaster som det kallas i iPhone) är radioprogram man laddar ner gratis från iTunes och lyssnar på när man vill. Perfekt att alltid ha något intressant att lyssna på till exempel under resan till och från kontoret eller när man stryker kläder.</p></li>
+<li><p>Safari
+Webbläsare (utan Flash och Java) med den snygga finessen att man kan dubbelklicka på en text för att få den perfekt inzoomad för läsning.</p></li>
+<li><p>Telefonsamtal
+Japp, man kan ha gamla hederliga telefonsamtal också. Ljudet i själva telefonen är ganska dåligt så jag använder alltid headset med tillhörande sladdtrassel.</p></li>
+<li><p>SMS
+Det snygga i iPhone är att man kan se <a href="http://images.google.com/images?q=iphone+sms">flera SMS samtidigt</a>.</p></li>
+<li><p>Kartor och GPS
+Otroligt värdefullt när man ska ta sig från a till b eller bara undrar var man är någonstans.</p></li>
+<li><p>Res i STHLM
+Som sl.se fast bättre. Den föreslår namn på stationer och kommer ihåg vilka platser man har använt tidigare.</p></li>
+<li><p>YouTube
+Av någon anledning är det en egen applikation för YouTube. Funkar bra.</p></li>
+<li><p>Klocka
+Inte mycket att säga om detta program. Larm, timer, tidtagning&#8230; använder den varje dag.</p></li>
+<li><p>Kamera
+Inte världens bästa, men klart godkänd för den typen av bilder man tar med mobil.</p></li>
+<li><p>eBuddy
+IM-klient för msn etc.</p></li>
+<li><p>Spel
+Perfekt att ha några spel när man känner sig uttråkad eller träffar något uttråkat barn. Några favoriter är Tap Tap Revenge 2 och 3, Labyrinth, Doodle Jump, Fling, Ragdoll, Geared och Unblock Me. Har bara provat gratisvarianterna av dessa.</p></li>
+<li><p>Anteckningar
+Ungefär som digitala post-it-lappar. Perfekt när man behöver skriva ned något och inte har papper och penna till hands.</p></li>
+<li><p>Väder
+5-dagars prognos som inte är helt pålitlig. Appen YR från yr.no funkar bättre förutom att den är lite långsammare.</p></li>
+<li><p>Facebook
+Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland annat lägga upp bilder direkt från telefonen.</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DrupalCamp dag 2]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2009/06/08/drupalcamp-dag-2/"/>
+    <updated>2009-06-08T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2009/06/08/drupalcamp-dag-2</id>
+    <content type="html"><![CDATA[<p>DrupalCamp Stockholm 2009 dag 2 var en intressant upplevelse.</p>
+
+<p>Efter registrering och mingel började första presentationen som hölls av Pelle Wessman från <a href="http://www.goodold.se/">Good Old</a>. Pelle presenterade tekniken bakom sajterna <a href="http://malmotown.com">malmotown.com</a> och esloved.se. Mest fokus var på vilka moduler som hade använts, både befintliga och egenutvecklade. Många av modulerna de har utvecklat har de publicerat på <a href="http://drupal.org">drupal.org</a> och fler är på väg dit. Pelle avslutade med några ord om hur de använder <a href="http://git-scm.com">Git</a> för både versionshantering och publicering (istället för ftp). Mycket intressant.</p>
+
+<p>Robert Douglass från <a href="http://acquia.com">Acquia</a> presenterade hur Drupals sökfunktion kan lyftas till en helt ny nivå med <a href="http://drupal.org/project/apachesolr">Apache Solr Search</a>. Solr flyttar sökningen till en separat server vilket gör sökningen snabbare samtidigt som man minskar belastningen på Drupals databas. Solr tillför också kategorier i sökresultaten vilket gör det enkelt att sortera och filtrera resultaten i efterhand. För att förstå hur kraftfullt det är, så är det bäst att se exempelvis början av Acquias <a href="http://gotdrupal.com/videos/drupal-search-using-acquia-solr-service">film om Acquia Search</a>.</p>
+
+<p>Tredje presentationen handlade om Drupal-leveranser och hur man kan automatisera det med hjälp av Hudson och andra verktyg. Ganska kort presentation och den kändes tyvärr inte helt anpassad till Drupal.</p>
+
+<p>Konstantin Käfer höll en intressant presentation om &#8220;Front-end optimization&#8221;, vilket i princip är hur man får en sida att ladda snabbare. Det handlar om betydligt mer än bandbredd och storleken på sidorna. Konstantin gick igenom både hur man analyserar vad som tar tid och hur man sedan åtgärdar det. Bilderna från presentationen kan <a href="http://www.slideshare.net/kkaefer/front-end-performance-1509838">ses online på slidesshare.net</a>.</p>
+
+<p>David Strauss från <a href="http://fourkitchens.com">Four Kitchens</a> gjorde en djupdykning i hur man optimerar server-sidan av en Drupal-installation. Fokus var på riktigt stora sajter med mycket innehåll och många användare, vilket gjorde presentationen otroligt intressant, men inte så användbar för oss &#8220;vanliga dödliga&#8221;.</p>
+
+<p>Todd Nienkerk, också från Four Kitchens, höll en oväntad presentation om hur man bygger 960 pixlar breda teman baserat på 12 eller 16 kolumner. Antar att man måste hålla på en del med design och tema för att uppskatta detta.</p>
+
+<p>Avslutningsvis presenterade Addison Berry från <a href="http://www.lullabot.com">Lullabot</a> hur &#8220;The Drupal Community&#8221; fungerar, hur man kan deltaga, få hjälp och hjälpa andra. Man fick en känsla av att det kan gå ganska hätskt till i diskussionerna mellan aktiva medlemmar med starka viljor, så mycket gick ut på att varna folk för att ta det försiktigt och vara beredd på mothugg om någon råkar ha en dålig dag. Ändå fick man på något konstigt sätt ett gott intryck av det hela.</p>
+
+<p>Mer info om DrupalCamp hittar ni bland annat på <a href="http://nodeone.se/blogg/drupalcampstockholm2009">NodeOnes blogg</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DrupalCamp Stockholm 29-30 maj]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2009/04/22/drupalcamp-stockholm-29-30-maj/"/>
+    <updated>2009-04-22T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2009/04/22/drupalcamp-stockholm-29-30-maj</id>
+    <content type="html"><![CDATA[<p><a href="http://www.drupalcamp.se">DrupalCamp Stockholm 09</a> är den första svenska drupalkonferensen. Första dagen riktas främst till beslutsfattare som är nyfikna på att använda Drupal för sitt företags eller organisations webbplats eller intranät. Själv har jag anmält mig till andra dagen som riktar sig mer till utvecklare som vill lära sig eller fördjupa sina kunskaper om <a href="http://www.drupal.org">Drupal</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[100% Steve Jobs]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2009/02/23/100-steve-jobs/"/>
+    <updated>2009-02-23T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2009/02/23/100-steve-jobs</id>
+    <content type="html"><![CDATA[<p>Jag gjorde just personlighetstestet på <a href="http://www.friforetagsamhet.se">Fri företagsamhet</a> och fick följande resultat. :-)</p>
+
+<p><img src="http://nadam.github.com/nadam/images/steve_jobs.gif" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Förlängt uppdrag på Payzone]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2008/12/19/frlngt-uppdrag-p-payzone/"/>
+    <updated>2008-12-19T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2008/12/19/frlngt-uppdrag-p-payzone</id>
+    <content type="html"><![CDATA[<p>Det blev i dagarna klart att jag kommer fortsätta på <a href="http://payzone.se">Payzone</a> även nästa år. Först deltid på distans från Thailand under vintern och därefter heltid i Sverige fram till och med september.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reklam]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2008/12/06/reklam/"/>
+    <updated>2008-12-06T00:00:00+01:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2008/12/06/reklam</id>
+    <content type="html"><![CDATA[<p>En del kanske undrar varför jag har annonser från Google här. Det är egentligen bara en test av hur <a href="https://www.google.com/adsense">Google AdSense</a> fungerar och hur man använder motsvarande <a href="http://drupal.org/project/adsense">modul för Drupal</a>. Kan vara användbart i framtiden om jag lanserar någon populärare webbplats.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Uppdrag]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2008/09/27/uppdrag/"/>
+    <updated>2008-09-27T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2008/09/27/uppdrag</id>
+    <content type="html"><![CDATA[<p>Fyra månader har gått sedan mitt förra inlägg och en hel del har hänt sedan dess. Jag sitter nu på uppdrag hos <a href="http://www.payzone.se"> Payzone </a> (fd Alphyra) och det är alltid kul att träffa gamla kollegor (Caroline, Stefan, Petri, Christer med flera). Uppdraget varar året ut och består av design och vidareutveckling av betalsystemet Spectracard 3.</p>
+
+<p>Samtidigt har jag kvar mina uppdrag för <a href="http://payex.no">PayEx</a> och <a href="http://servepro.no/">ServePro</a>, där jag hjälper till vid behov och i mån av tid.</p>
+
+<p>Alla tre uppdrag går via <a href="http://systemvaruhuset.se/">Systemvaruhuset</a> där jag är kvar som underkonsult.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kryptera din e-post med S/MIME]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2008/05/28/kryptera-din-e-post-med-s-mime/"/>
+    <updated>2008-05-28T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2008/05/28/kryptera-din-e-post-med-s-mime</id>
+    <content type="html"><![CDATA[<p>Nästan alla skickar e-mail i klarttext vilket gör det möjligt för obehöriga att läsa det på vägen från avsändare till mottagare. Lösningen är förstås att kryptera texten, men det har länge varit krångligt att göra det och det finns ingen standard som fungerar med alla program.</p>
+
+<p>Använder man webbmail, så kan man ofta inleda adressen med https istället för http, men det ger bara skydd fram till webbservern. Kommunikationen därifrån går oftast vidare okrypterad.</p>
+
+<p>Efter intensivt letande i vintras kom jag fram till att det bara fanns ett vettigt alternativ - <a href="http://en.wikipedia.org/wiki/S/MIME">S/MIME</a>. Det tar en stund att sätta upp, men därefter fungerar det automatiskt. Lösningen bygger på certifikat med publika och privata nycklar. Du kan signera mail du skickar till andra. De får då tillgång till ditt certifikat och publika nyckel, vilket gör att de kan kryptera mail som de skickar till dig. Om du istället får ett signerat mail av någon, så kan du därefter skicka krypterade mail till dem.</p>
+
+<p>Jag går här igenom hur man sätter upp S/MIME med en kommersiell e-postadress tillsammans med Outlook och avslutar med vad man kan göra för privata e-postadresser och Gmail.</p>
+
+<!--break-->
+
+
+<h3>Outlook och kommersiell e-postadress</h3>
+
+
+<ol>
+<li><p>Använd Internet Explorer och gå in på <a href="https://www.thawte.com/secure-email/personal-email-certificates"><a href="https://www.thawte.com/secure-email/personal-email-certificates">https://www.thawte.com/secure-email/personal-email-certificates</a></a> och klicka på länken i slutet av texten. (Thawte är ett dotterbolag till VeriSign och uttalas som &#8220;thought&#8221;)</p></li>
+<li><p>Följ instruktionerna för att först skaffa ett Thawte ID. Om du har några specialtecken i ditt namn, t ex &#8220;Mårten Mörtén&#8221;, så kan du eventuellt behöva ange namnet förenklat som &#8220;Marten Morten&#8221; istället. Om du har flera e-postadresser (alias), så se till att ange den som står som avsändare när du skickar mail till andra.</p></li>
+<li><p>Följ instruktionerna i de mail du får från Thawte och fortsätt sedan med att hämta certifikat från deras webbplats. Du kan lägga till fler mail-adresser och ha allt samlat under ett Thawte ID.</p></li>
+<li><p>När du väl har hämtat certifikatet startar du om Outlook. Du kan nu skicka signerade mail. Om du tar emot signerade mail från någon annan, så kan du därefter skicka krypterade mail tillbaka.</p></li>
+<li><p>Du kan i Outlook ställa in så att alla mail du skickar signeras och krypteras (om möjligt). Inställningarna görs olika i <a href="http://office.microsoft.com/sv-se/outlook/HP063699521053.aspx">Outlook 2003</a> och <a href="http://office.microsoft.com/sv-se/outlook/HP012305361053.aspx">Outlook 20007</a>. Man kan även använda S/MIME i Outlook Web Access i Internet Explorer om man där installerar komponenter för det via Alternativ / E-postsäkerhet.</p></li>
+</ol>
+
+
+<h3>Privat e-postadress</h3>
+
+
+<p>Om du har en privat e-postadress som du inte använder kommersiellt (i företag), så kan du istället hämta certifikat från <a href="https://secure.comodo.com/products/frontpage?area=SecureEmailCertificate">Comodo</a>. Det är något enklare än Thawte och ger dig möjlighet att få ditt eget namn kopplat till certifikatet istället för bara din e-postadress.</p>
+
+<h3>Gmail</h3>
+
+
+<p>För att använda S/MIME med Gmail behöver du hämta certifikatet med <a href="http://www.mozilla.com/firefox/">Firefox</a> eftersom du dessutom behöver ett tillägg till Firefox - <a href="https://addons.mozilla.org/en-US/firefox/addon/592">Gmail S/MIME</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gmail]]></title>
+    <link href="http://nadam.github.com/nadam/blog/2008/04/19/gmail/"/>
+    <updated>2008-04-19T00:00:00+02:00</updated>
+    <id>http://nadam.github.com/nadam/blog/2008/04/19/gmail</id>
+    <content type="html"><![CDATA[<p>För alla som inte använder Gmail så kommer här en kort introduktion.</p>
+
+<p>Gmail är Googles lösning för webmail och hittas på <a href="https://mail.google.com"><a href="https://mail.google.com">https://mail.google.com</a></a>. Observera att jag väljer att börja adressen med https istället för http. Det gör att all information skickas krypterat mellan din dator och Googles webbserver, vilket är bra om man t ex surfar på ett oskyddat trådlöst nätverk, men framför allt för att skydda ditt lösenord när du loggar in. För att registrera dig kan du gå direkt till <a href="https://mail.google.com/mail/signup"><a href="https://mail.google.com/mail/signup">https://mail.google.com/mail/signup</a></a></p>
+
+<p>Gmail är riktigt bra jämfört med andra mail-varianter och jag använder den både privat och i företaget.</p>
+
+<p>Den största skillnaden mellan Gmail och andra mail-tjänster är att mail som hör ihop automatiskt hamnar tillsammans, även om det är 10-tals mail med flera dagars mellanrum. Det är lite ovant i början, men man vänjer sig snabbt.</p>
+
+<p>Andra fördelar:</p>
+
+<ul>
+<li>Man kan snabbt söka bland sina mail på samma sätt som när man söker på google.se.</li>
+<li>Bifogade bilder kan ses direkt som miniatyrer eller full storlek.</li>
+<li>Bifogade filer kan hämtas hem som en zip-fil.</li>
+<li>E-postadresser sparas automatiskt både när man skickar och tar emot mail, så det blir lättare att skriva dem senare.</li>
+<li>MS Office Dokument kan öppnas i webbläsaren som HTML eller direkt för redigering.<!--break--></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
