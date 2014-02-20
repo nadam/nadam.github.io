@@ -19,13 +19,14 @@ Podradio (eller podcaster som det kallas &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nadam.github.io/blog/2009/12/05/iphone/">
+  <link rel="canonical" href="http://nadam.github.io/blog/2009/12/05/iphone">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Adam Nybäck" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <!--link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css"-->
@@ -90,7 +91,8 @@ Podradio (eller podcaster som det kallas &hellip;">
 
 <time datetime="2009-12-05T00:00:00+01:00" pubdate data-updated="true"></time>
         
-         | <a href="#disqus_thread">Comments</a>
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://nadam.github.io">Comments</a>
         
       </p>
     
@@ -160,7 +162,7 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nadam.github.io/blog/2009/12/05/iphone/" data-via="nadam9" data-counturl="http://nadam.github.io/blog/2009/12/05/iphone/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nadam.github.io/blog/2009/12/05/iphone/" data-via="nadam9" data-counturl="http://nadam.github.io/blog/2009/12/05/iphone/" >Tweet</a>
   
   
   
@@ -218,7 +220,7 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
   <a href="https://github.com/nadam">@nadam</a> on GitHub
   
   <script type="text/javascript">
-    $.domReady(function(){
+    $(document).ready(function(){
         if (!window.jXHR){
             var jxhr = document.createElement('script');
             jxhr.type = 'text/javascript';
@@ -264,7 +266,7 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
 </script>
@@ -280,7 +282,7 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>
