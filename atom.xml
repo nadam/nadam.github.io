@@ -4,7 +4,7 @@
   <title><![CDATA[Adam Nybäck]]></title>
   <link href="http://nadam.github.io/atom.xml" rel="self"/>
   <link href="http://nadam.github.io/"/>
-  <updated>2014-02-19T23:11:43+01:00</updated>
+  <updated>2014-02-20T12:28:31+01:00</updated>
   <id>http://nadam.github.io/</id>
   <author>
     <name><![CDATA[Adam Nybäck]]></name>
@@ -18,11 +18,11 @@
     <link href="http://nadam.github.io/blog/2013/02/05/time-to-leave-drupal/"/>
     <updated>2013-02-05T00:00:00+01:00</updated>
     <id>http://nadam.github.io/blog/2013/02/05/time-to-leave-drupal</id>
-    <content type="html"><![CDATA[<p>So I haven&#8217;t done much on this site for a long time. It&#8217;s mostly because I think of it as my company website and the things I want to write are not necessarily related to my company. On the other hand it&#8217;s a one man company, so anything I write is kind of personal. Mostly when I feel like writing something these days I just go to Facebook or Twitter (and occasionally to Google+).</p>
+    <content type="html"><![CDATA[<p>So I haven&rsquo;t done much on this site for a long time. It&rsquo;s mostly because I think of it as my company website and the things I want to write are not necessarily related to my company. On the other hand it&rsquo;s a one man company, so anything I write is kind of personal. Mostly when I feel like writing something these days I just go to Facebook or Twitter (and occasionally to Google+).</p>
 
-<p>Last weekend I was looking for ways to prevent spam on websites and the obvious answer for Drupal is usually Mollom. However, it&#8217;s only free for non-commercial use so I looked for alternatives and found <a href="http://drupal.org/project/botcha">Botcha</a>. The reason for having spam protection was for another site running Drupal 7 so I thought this would be a good opportunity to upgrade anyro.se too (from Drupal 6) and try Botcha here by enabling comments again. Knowing upgrading could be a pain I was happy to find that <a href="http://www.acquia.com/blog/use-drush-upgrade-drupal-6-drupal-7">Drush supports upgrading</a>. After struggling with this for a few hours I ran into some &#8220;access denied&#8221; issue that didn&#8217;t have any obvious solution.</p>
+<p>Last weekend I was looking for ways to prevent spam on websites and the obvious answer for Drupal is usually Mollom. However, it&rsquo;s only free for non-commercial use so I looked for alternatives and found <a href="http://drupal.org/project/botcha">Botcha</a>. The reason for having spam protection was for another site running Drupal 7 so I thought this would be a good opportunity to upgrade anyro.se too (from Drupal 6) and try Botcha here by enabling comments again. Knowing upgrading could be a pain I was happy to find that <a href="http://www.acquia.com/blog/use-drush-upgrade-drupal-6-drupal-7">Drush supports upgrading</a>. After struggling with this for a few hours I ran into some &ldquo;access denied&rdquo; issue that didn&rsquo;t have any obvious solution.</p>
 
-<p>Having heard many friends switching to <a href="http://jekyllrb.com/">Jekyll</a>, I think I&#8217;m going to do the same, possibly using <a href="http://www.acquia.com/blog/use-drush-upgrade-drupal-6-drupal-7">Octopress</a> and <a href="http://pages.github.com">GitHub Pages</a> too. This feels like a step in the right direction - no PHP, no databases, no security issues/updates, no headache.</p>
+<p>Having heard many friends switching to <a href="http://jekyllrb.com/">Jekyll</a>, I think I&rsquo;m going to do the same, possibly using <a href="http://www.acquia.com/blog/use-drush-upgrade-drupal-6-drupal-7">Octopress</a> and <a href="http://pages.github.com">GitHub Pages</a> too. This feels like a step in the right direction &ndash; no PHP, no databases, no security issues/updates, no headache.</p>
 
 <!--break-->
 
@@ -49,7 +49,7 @@
 
 <p>A video on the website describes the process where you have the reader connected to the bottom of the iPhone. The amount is entered, the card is inserted, the amount is authorized online and finally the customer signs using the touch screen and optionally receives a receipt by e-mail.</p>
 
-<p>Security seems to be a top priority according to the website: &#8220;iZettle meets all the requirements of the card payment industry. We are EMV approved and comply with PCI-DSS regulations. No sensitive data is ever stored on the mobile device, and all data traffic is encrypted.&#8221;</p>
+<p>Security seems to be a top priority according to the website: &ldquo;iZettle meets all the requirements of the card payment industry. We are EMV approved and comply with PCI-DSS regulations. No sensitive data is ever stored on the mobile device, and all data traffic is encrypted.&rdquo;</p>
 
 <p>The product/service will be launched in Sweden in June this year and people who are interested can sign up for an invite.</p>
 
@@ -65,7 +65,7 @@
     <id>http://nadam.github.io/blog/2010/12/20/nuvarande-uppdrag</id>
     <content type="html"><![CDATA[<p>Sedan ett par månader är jag tillbaka på Payzone där jag jobbar deltid med en förstudie som nu går över i utveckling.</p>
 
-<p>Parallellt med det utvecklar jag eget till Google Android där jag nu har sex stycken appar publicerade på Market - tre spel och tre svenska reseappar.</p>
+<p>Parallellt med det utvecklar jag eget till Google Android där jag nu har sex stycken appar publicerade på Market &ndash; tre spel och tre svenska reseappar.</p>
 
 <p>Med andra ord Java-utveckling för hela slanten, vilket jag fortfarande trivs ganska bra med.</p>
 ]]></content>
@@ -87,7 +87,7 @@
     <link href="http://nadam.github.io/blog/2010/04/18/rksimulering-i-html5/"/>
     <updated>2010-04-18T00:00:00+02:00</updated>
     <id>http://nadam.github.io/blog/2010/04/18/rksimulering-i-html5</id>
-    <content type="html"><![CDATA[<p>Igår var jag med i en &#8220;HTML5 study group&#8221; för att se vad <a href="http://en.wikipedia.org/wiki/HTML5">den nya standarden</a> har att erbjuda. Inte helt oväntat fastnade jag för <a href="http://en.wikipedia.org/wiki/Canvas_element">Canvas-taggen</a> och som ett experiment provade jag att göra <a href="http://anyro.se/content/r%C3%B6ksimulering">en enkel röksimulator</a>.</p>
+    <content type="html"><![CDATA[<p>Igår var jag med i en &ldquo;HTML5 study group&rdquo; för att se vad <a href="http://en.wikipedia.org/wiki/HTML5">den nya standarden</a> har att erbjuda. Inte helt oväntat fastnade jag för <a href="http://en.wikipedia.org/wiki/Canvas_element">Canvas-taggen</a> och som ett experiment provade jag att göra <a href="http://anyro.se/content/r%C3%B6ksimulering">en enkel röksimulator</a>.</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -290,11 +290,11 @@ Följ instruktionerna på <a href="http://developer.android.com/sdk/index.html">
 <p><strong>3. Prova några <a href="http://developer.android.com/resources/tutorials/views/index.html">Layouter och Views</a> som du tycker ser intressanta ut.</strong></p>
 
 <p><strong>4. Gå igenom <a href="http://developer.android.com/resources/tutorials/notepad/index.html">Notepad Tutorial</a></strong>
-Här lär du dig många av de grundläggande funktionerna som behövs i nästan alla applikationer och hur man gör det &#8220;the Android way&#8221;.
+Här lär du dig många av de grundläggande funktionerna som behövs i nästan alla applikationer och hur man gör det &ldquo;the Android way&rdquo;.
 Om du redan vet vilken applikation du ska utveckla, så kan du göra det parallellt och lägga till sånt som du tycker behövs.</p>
 
 <p><strong>5. Nästa steg</strong>
-Nu är det upp till dig hur du vill gå vidare :-)
+Nu är det upp till dig hur du vill gå vidare :&ndash;)
 En del förslag <a href="http://developer.android.com/sdk/installing.html#NextSteps">hittar du här</a>.</p>
 
 <p><strong>6. Problem?</strong>
@@ -365,7 +365,7 @@ Som sl.se fast bättre. Den föreslår namn på stationer och kommer ihåg vilka
 <li><p>YouTube
 Av någon anledning är det en egen applikation för YouTube. Funkar bra.</p></li>
 <li><p>Klocka
-Inte mycket att säga om detta program. Larm, timer, tidtagning&#8230; använder den varje dag.</p></li>
+Inte mycket att säga om detta program. Larm, timer, tidtagning&hellip; använder den varje dag.</p></li>
 <li><p>Kamera
 Inte världens bästa, men klart godkänd för den typen av bilder man tar med mobil.</p></li>
 <li><p>eBuddy
@@ -396,13 +396,13 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
 
 <p>Tredje presentationen handlade om Drupal-leveranser och hur man kan automatisera det med hjälp av Hudson och andra verktyg. Ganska kort presentation och den kändes tyvärr inte helt anpassad till Drupal.</p>
 
-<p>Konstantin Käfer höll en intressant presentation om &#8220;Front-end optimization&#8221;, vilket i princip är hur man får en sida att ladda snabbare. Det handlar om betydligt mer än bandbredd och storleken på sidorna. Konstantin gick igenom både hur man analyserar vad som tar tid och hur man sedan åtgärdar det. Bilderna från presentationen kan <a href="http://www.slideshare.net/kkaefer/front-end-performance-1509838">ses online på slidesshare.net</a>.</p>
+<p>Konstantin Käfer höll en intressant presentation om &ldquo;Front-end optimization&rdquo;, vilket i princip är hur man får en sida att ladda snabbare. Det handlar om betydligt mer än bandbredd och storleken på sidorna. Konstantin gick igenom både hur man analyserar vad som tar tid och hur man sedan åtgärdar det. Bilderna från presentationen kan <a href="http://www.slideshare.net/kkaefer/front-end-performance-1509838">ses online på slidesshare.net</a>.</p>
 
-<p>David Strauss från <a href="http://fourkitchens.com">Four Kitchens</a> gjorde en djupdykning i hur man optimerar server-sidan av en Drupal-installation. Fokus var på riktigt stora sajter med mycket innehåll och många användare, vilket gjorde presentationen otroligt intressant, men inte så användbar för oss &#8220;vanliga dödliga&#8221;.</p>
+<p>David Strauss från <a href="http://fourkitchens.com">Four Kitchens</a> gjorde en djupdykning i hur man optimerar server-sidan av en Drupal-installation. Fokus var på riktigt stora sajter med mycket innehåll och många användare, vilket gjorde presentationen otroligt intressant, men inte så användbar för oss &ldquo;vanliga dödliga&rdquo;.</p>
 
 <p>Todd Nienkerk, också från Four Kitchens, höll en oväntad presentation om hur man bygger 960 pixlar breda teman baserat på 12 eller 16 kolumner. Antar att man måste hålla på en del med design och tema för att uppskatta detta.</p>
 
-<p>Avslutningsvis presenterade Addison Berry från <a href="http://www.lullabot.com">Lullabot</a> hur &#8220;The Drupal Community&#8221; fungerar, hur man kan deltaga, få hjälp och hjälpa andra. Man fick en känsla av att det kan gå ganska hätskt till i diskussionerna mellan aktiva medlemmar med starka viljor, så mycket gick ut på att varna folk för att ta det försiktigt och vara beredd på mothugg om någon råkar ha en dålig dag. Ändå fick man på något konstigt sätt ett gott intryck av det hela.</p>
+<p>Avslutningsvis presenterade Addison Berry från <a href="http://www.lullabot.com">Lullabot</a> hur &ldquo;The Drupal Community&rdquo; fungerar, hur man kan deltaga, få hjälp och hjälpa andra. Man fick en känsla av att det kan gå ganska hätskt till i diskussionerna mellan aktiva medlemmar med starka viljor, så mycket gick ut på att varna folk för att ta det försiktigt och vara beredd på mothugg om någon råkar ha en dålig dag. Ändå fick man på något konstigt sätt ett gott intryck av det hela.</p>
 
 <p>Mer info om DrupalCamp hittar ni bland annat på <a href="http://nodeone.se/blogg/drupalcampstockholm2009">NodeOnes blogg</a>.</p>
 ]]></content>
@@ -422,7 +422,7 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
     <link href="http://nadam.github.io/blog/2009/02/23/100-steve-jobs/"/>
     <updated>2009-02-23T00:00:00+01:00</updated>
     <id>http://nadam.github.io/blog/2009/02/23/100-steve-jobs</id>
-    <content type="html"><![CDATA[<p>Jag gjorde just personlighetstestet på <a href="http://www.friforetagsamhet.se">Fri företagsamhet</a> och fick följande resultat. :-)</p>
+    <content type="html"><![CDATA[<p>Jag gjorde just personlighetstestet på <a href="http://www.friforetagsamhet.se">Fri företagsamhet</a> och fick följande resultat. :&ndash;)</p>
 
 <p><img src="http://nadam.github.io/images/steve_jobs.gif" /></p>
 ]]></content>
@@ -468,7 +468,7 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
 
 <p>Använder man webbmail, så kan man ofta inleda adressen med https istället för http, men det ger bara skydd fram till webbservern. Kommunikationen därifrån går oftast vidare okrypterad.</p>
 
-<p>Efter intensivt letande i vintras kom jag fram till att det bara fanns ett vettigt alternativ - <a href="http://en.wikipedia.org/wiki/S/MIME">S/MIME</a>. Det tar en stund att sätta upp, men därefter fungerar det automatiskt. Lösningen bygger på certifikat med publika och privata nycklar. Du kan signera mail du skickar till andra. De får då tillgång till ditt certifikat och publika nyckel, vilket gör att de kan kryptera mail som de skickar till dig. Om du istället får ett signerat mail av någon, så kan du därefter skicka krypterade mail till dem.</p>
+<p>Efter intensivt letande i vintras kom jag fram till att det bara fanns ett vettigt alternativ &ndash; <a href="http://en.wikipedia.org/wiki/S/MIME">S/MIME</a>. Det tar en stund att sätta upp, men därefter fungerar det automatiskt. Lösningen bygger på certifikat med publika och privata nycklar. Du kan signera mail du skickar till andra. De får då tillgång till ditt certifikat och publika nyckel, vilket gör att de kan kryptera mail som de skickar till dig. Om du istället får ett signerat mail av någon, så kan du därefter skicka krypterade mail till dem.</p>
 
 <p>Jag går här igenom hur man sätter upp S/MIME med en kommersiell e-postadress tillsammans med Outlook och avslutar med vad man kan göra för privata e-postadresser och Gmail.</p>
 
@@ -479,8 +479,8 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
 
 
 <ol>
-<li><p>Använd Internet Explorer och gå in på <a href="https://www.thawte.com/secure-email/personal-email-certificates"><a href="https://www.thawte.com/secure-email/personal-email-certificates">https://www.thawte.com/secure-email/personal-email-certificates</a></a> och klicka på länken i slutet av texten. (Thawte är ett dotterbolag till VeriSign och uttalas som &#8220;thought&#8221;)</p></li>
-<li><p>Följ instruktionerna för att först skaffa ett Thawte ID. Om du har några specialtecken i ditt namn, t ex &#8220;Mårten Mörtén&#8221;, så kan du eventuellt behöva ange namnet förenklat som &#8220;Marten Morten&#8221; istället. Om du har flera e-postadresser (alias), så se till att ange den som står som avsändare när du skickar mail till andra.</p></li>
+<li><p>Använd Internet Explorer och gå in på <a href="https://www.thawte.com/secure-email/personal-email-certificates"><a href="https://www.thawte.com/secure-email/personal-email-certificates">https://www.thawte.com/secure-email/personal-email-certificates</a></a> och klicka på länken i slutet av texten. (Thawte är ett dotterbolag till VeriSign och uttalas som &ldquo;thought&rdquo;)</p></li>
+<li><p>Följ instruktionerna för att först skaffa ett Thawte ID. Om du har några specialtecken i ditt namn, t ex &ldquo;Mårten Mörtén&rdquo;, så kan du eventuellt behöva ange namnet förenklat som &ldquo;Marten Morten&rdquo; istället. Om du har flera e-postadresser (alias), så se till att ange den som står som avsändare när du skickar mail till andra.</p></li>
 <li><p>Följ instruktionerna i de mail du får från Thawte och fortsätt sedan med att hämta certifikat från deras webbplats. Du kan lägga till fler mail-adresser och ha allt samlat under ett Thawte ID.</p></li>
 <li><p>När du väl har hämtat certifikatet startar du om Outlook. Du kan nu skicka signerade mail. Om du tar emot signerade mail från någon annan, så kan du därefter skicka krypterade mail tillbaka.</p></li>
 <li><p>Du kan i Outlook ställa in så att alla mail du skickar signeras och krypteras (om möjligt). Inställningarna görs olika i <a href="http://office.microsoft.com/sv-se/outlook/HP063699521053.aspx">Outlook 2003</a> och <a href="http://office.microsoft.com/sv-se/outlook/HP012305361053.aspx">Outlook 20007</a>. Man kan även använda S/MIME i Outlook Web Access i Internet Explorer om man där installerar komponenter för det via Alternativ / E-postsäkerhet.</p></li>
@@ -495,7 +495,7 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
 <h3>Gmail</h3>
 
 
-<p>För att använda S/MIME med Gmail behöver du hämta certifikatet med <a href="http://www.mozilla.com/firefox/">Firefox</a> eftersom du dessutom behöver ett tillägg till Firefox - <a href="https://addons.mozilla.org/en-US/firefox/addon/592">Gmail S/MIME</a>.</p>
+<p>För att använda S/MIME med Gmail behöver du hämta certifikatet med <a href="http://www.mozilla.com/firefox/">Firefox</a> eftersom du dessutom behöver ett tillägg till Firefox &ndash; <a href="https://addons.mozilla.org/en-US/firefox/addon/592">Gmail S/MIME</a>.</p>
 ]]></content>
   </entry>
   
