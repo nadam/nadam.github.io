@@ -4,7 +4,7 @@
   <title><![CDATA[Anyro]]></title>
   <link href="http://nadam.github.io/atom.xml" rel="self"/>
   <link href="http://nadam.github.io/"/>
-  <updated>2014-03-04T18:55:17+01:00</updated>
+  <updated>2014-03-11T17:13:25+01:00</updated>
   <id>http://nadam.github.io/</id>
   <author>
     <name><![CDATA[Adam Nybäck]]></name>
@@ -34,7 +34,7 @@
     <link href="http://nadam.github.io/2011/08/19/android/"/>
     <updated>2011-08-19T14:13:00+02:00</updated>
     <id>http://nadam.github.io/2011/08/19/android</id>
-    <content type="html"><![CDATA[<p>Under året har jag fortsatt utveckla appar för Android varav två har gjorts på uppdrag av reklambyråer. <a href="https://play.google.com/store/apps/details?id=se.anyro.multitimer">Lithells MultiTimer</a> utvecklades åt <a href="http://goss.se">Goss</a> och <a href="https://play.google.com/store/apps/details?id=se.anyro.sevart">Sevärt</a> utvecklades åt <a href="http://www.sturmdrang.se">Sturm &amp; Drang</a>.</p>
+    <content type="html"><![CDATA[<p>Under året har jag fortsatt utveckla appar för Android varav två har gjorts på uppdrag av reklambyråer. <a href="https://play.google.com/store/apps/details?id=se.anyro.multitimer">Lithells MultiTimer</a> utvecklades åt Goss och <a href="https://play.google.com/store/apps/details?id=se.anyro.sevart">Sevärt</a> utvecklades åt <a href="http://www.sturmdrang.se">Sturm &amp; Drang</a>.</p>
 
 <p>Under sommaren har jag också dragit igång regelbundna <a href="http://www.sthlmandroid.se">utvecklarträffar i Stockholm</a> tillsammans med andra Android-entusiaster. Om du är intresserad så rekommender jag att du följer <a href="https://twitter.com/SthlmAndroid">@SthlmAndroid</a> på Twitter.</p>
 ]]></content>
@@ -403,8 +403,6 @@ Har själv tröttnat på Facebook, men det är en riktigt bra app för att bland
 <p>Todd Nienkerk, också från Four Kitchens, höll en oväntad presentation om hur man bygger 960 pixlar breda teman baserat på 12 eller 16 kolumner. Antar att man måste hålla på en del med design och tema för att uppskatta detta.</p>
 
 <p>Avslutningsvis presenterade Addison Berry från <a href="http://www.lullabot.com">Lullabot</a> hur &ldquo;The Drupal Community&rdquo; fungerar, hur man kan deltaga, få hjälp och hjälpa andra. Man fick en känsla av att det kan gå ganska hätskt till i diskussionerna mellan aktiva medlemmar med starka viljor, så mycket gick ut på att varna folk för att ta det försiktigt och vara beredd på mothugg om någon råkar ha en dålig dag. Ändå fick man på något konstigt sätt ett gott intryck av det hela.</p>
-
-<p>Mer info om DrupalCamp hittar ni bland annat på <a href="http://nodeone.se/blogg/drupalcampstockholm2009">NodeOnes blogg</a>.</p>
 ]]></content>
   </entry>
   
